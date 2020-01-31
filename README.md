@@ -4,11 +4,8 @@
 `TODO://` App presnts cuomized text and can change text color by taping on a button.
 
 ### App Walk-though
-`TODO://` 
 
 <img src="https://i.imgur.com/QHeMxy5.gifv" width=200><br>
-
-`TODO://` In the User stories section below, add an `x` between the `-[ ]` like this `- [x]` for any user story you complete. (☝️ Remove this paragraph after after checking off user stories)
 
 ### Required User Stories
 - [x] 1. User sees custom text in a label - Hello from {name}!
